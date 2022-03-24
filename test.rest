@@ -1,0 +1,11 @@
+### Get all friends
+
+
+### Get friends named james
+
+
+### Create a friend
+
+
+
+### Delete a friend

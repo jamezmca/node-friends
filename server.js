@@ -20,6 +20,7 @@ app.get('/:friend', (req, res) => {
 
 app.post('/', (req, res) => {
     const { newFriend } = req.body
+    //save friend as array but do first and last name
 
 })
 
